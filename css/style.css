@@ -1,0 +1,31 @@
+body{
+	background-color: #FDFDEC;
+}
+header {
+	text-align: center;
+	color:#FFFFFF;	
+	background-color: #878787;
+	font-variant: small-caps;
+	font-size: 130%;
+	font-family: Arial,"Times New Roman";
+	/*line-height: 100%*/
+}
+h1{
+	text-align: center;
+	color:#FFFFFF;
+	background-color: #ADADAD;
+	font-size: 200% !important; 
+}
+h2{
+	background-color: #AFDFFD;
+}
+footer{
+	color:#FFFFFF;
+	background-color: #878787;
+}
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal;
+}
