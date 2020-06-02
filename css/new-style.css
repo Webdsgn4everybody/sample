@@ -76,3 +76,6 @@ img{
 	display: inline-block;
 	width: 15%;
 }
+footer{
+	background: linear-gradient(#525252 0%,#47D7FF 100%);
+}
